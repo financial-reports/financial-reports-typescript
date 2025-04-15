@@ -1,6 +1,6 @@
 {
   "name": "@financial-reports/generated-client-ts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenAPI client for @financial-reports/generated-client-ts",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
